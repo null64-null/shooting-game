@@ -19,6 +19,7 @@ https://github.com/null64-null/shooting-game/assets/127968084/8b9bf2b4-2663-4d08
 ### 操作
 - PCの方向キーでプレイヤーキューブの動きを操作
 - スペースキーで弾を発射
+<br><br>
 
 ### 動き
 #### 敵キューブ
