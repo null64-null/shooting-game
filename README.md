@@ -14,7 +14,7 @@ Unity, C#
 <br><br>
 
 ## プレイの様子
-<動画>
+https://github.com/null64-null/shooting-game/assets/127968084/8b9bf2b4-2663-4d08-9511-74987f52985e
 
 ### 操作
 - PCの方向キーでプレイヤーキューブの動きを操作
